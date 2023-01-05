@@ -116,7 +116,7 @@ justify-content: space-around;
     color: #757575;
 }
 .info-description{
-    font-size: ;
+   
 
 }
 /* what i do section */
@@ -146,3 +146,32 @@ justify-content: space-around;
     color: #757575;
 }
 /* resume style */
+.section-title{   box-shadow: 0px 6px 50px rgb(36, 41, 36) ;
+
+}
+.resume-content{
+ display: flex; 
+gap: 24px;
+border:5px solid #757575;
+box-shadow: 0px 6px 50px rgb(136, 6, 6) ;
+}
+.resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.resume .title { font-weight: 700;
+    font-size: 25px;
+    color: #757575;
+    margin-bottom: 10px;
+ 
+    
+}
+.resume .sub-title {
+    margin-bottom: 5px;
+color: #757575;
+font-size: 20px;
+font-weight: 600;
+}
+.resume .description {
+color: #757575;
+}
